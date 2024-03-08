@@ -1,22 +1,24 @@
 /* Feel free to change me and make me your own! */
 
 body {
-  background-color: #F4A460; 
-  font-family: "Courier New", Courier, monospace; 
+  background-color: #fbefcc; 
+  font-family: monaco, Consolas,"Lucida Console",monospace; 
+  color: #d96459;
 }
 
 article {
   margin-left: 10vw; 
   margin-right: 10vw; 
+  margin-bottom: 4vw;
 }
 
 h1 {
   text-align: center; 
-  font-size: 48px; 
+  font-size: 25px; 
 }
 
 h2 {
-  font-size: 36px; 
+  font-size: 25px; 
 }
 
 p {
@@ -24,9 +26,14 @@ p {
   font-size: 20px; 
 }
 
+
+
 ul {
-  font-size: 20px; 
+  font-size: 18px; 
   list-style-type: square; 
+}
+
+
 }
 
 code {
